@@ -39,3 +39,5 @@ The demand for secure darknet marketplaces continues to rise, and **Nexus Onion*
 
 <a href="http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion"><img src="/resources/control.webp" style="max-width: 100%;"></a>
 <a href="http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion"><img src="/resources/main.webp" style="max-width: 100%;"></a>
+
+Update:  04 August
