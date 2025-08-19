@@ -42,4 +42,6 @@ The demand for secure darknet marketplaces continues to rise, and **Nexus Onion*
 
 
 
-Update:  08/13/2025
+
+
+Update:  Tuesday 19 August 2025
