@@ -50,4 +50,6 @@ The demand for secure darknet marketplaces continues to rise, and **Nexus Onion*
 
 
 
-Update:  09/18/2025 link is functioning
+
+
+Update:  01 October 2025
